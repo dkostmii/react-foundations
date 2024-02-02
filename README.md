@@ -10,7 +10,7 @@ The current state:
 - [X] [Chapter 2: Rendering User Interfaces (UI)](https://nextjs.org/learn/react-foundations/rendering-ui)
 - [X] [Chapter 3: Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
 - [X] [Chapter 4: Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
-- [ ] [Chapter 5: Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
+- [X] [Chapter 5: Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
 - [ ] [Chapter 6: Displaying Data with Props](https://nextjs.org/learn/react-foundations/displaying-data-with-props)
 - [ ] [Chapter 7: Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
 - [ ] [Chapter 8: From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
