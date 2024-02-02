@@ -15,5 +15,5 @@ The current state:
 - [X] [Chapter 7: Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
 - [X] [Chapter 8: From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
 - [X] [Chapter 9: Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
-- [ ] [Chapter 10: Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
-- [ ] [Next Steps](https://nextjs.org/learn/react-foundations/next-steps)
+- [X] [Chapter 10: Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
+- [X] [Next Steps](https://nextjs.org/learn/react-foundations/next-steps)
